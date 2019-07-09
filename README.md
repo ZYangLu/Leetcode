@@ -1,0 +1,2 @@
+# Leetcode
+exercise and thoughts
